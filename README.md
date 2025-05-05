@@ -29,12 +29,19 @@ Dashboard Build
 ![image](https://github.com/user-attachments/assets/178315a2-b979-4eae-9e72-393a9778cb16)
 
 
+
+
+
+
 🛠️ Excel Features: Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 🎨 Design Choice: Horizontal bar chart for visual comparison of median salaries.
 📉 Data Organization: Sorted job titles by descending salary for improved readability.
 💡 Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 🗺️ Country Median Salaries - Map Chart
 ![image](https://github.com/user-attachments/assets/2f00f2b8-3303-4567-a1f2-3367bffc09a1)
+
+
+
 
 
 🛠️ Excel Features: Utilized Excel's map chart feature to plot median salaries globally.
@@ -61,7 +68,11 @@ IF(
 
 ![image](https://github.com/user-attachments/assets/0082c3e5-cf9b-426e-8eaa-51b1329cd6c6)
 
+
+
 📉 Dashboard Implementation
+
+
 
 ![image](https://github.com/user-attachments/assets/a1eeb553-e94a-480e-a295-c2b57d3a2168)
 
@@ -71,9 +82,13 @@ IF(
 🔢 Formula Purpose: This formula populates the table below, which gives us a list of unique job schedule types.
 🍽️ Background Table
 
+
+
 ![image](https://github.com/user-attachments/assets/8c2ebf38-98ce-460f-9c13-66a3ce5fa8bb)
 
 📉 Dashboard Implementation:
+
+
 
 ![image](https://github.com/user-attachments/assets/bab10fbe-4716-4032-9a3d-a16af2def42b)
 
@@ -83,6 +98,8 @@ IF(
 🎯 User input is restricted to predefined, validated schedule types
 🚫 Incorrect or inconsistent entries are prevented
 👥 Overall usability of the dashboard is enhanced
+
+
 ![image](https://github.com/user-attachments/assets/042dce5b-b381-4dbc-9623-e34adcc8621e)
 
 
