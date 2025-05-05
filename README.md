@@ -1,5 +1,5 @@
 Excel Salary Dashboard
-![image](https://github.com/user-attachments/assets/0996c100-15d9-4cc6-8de5-f85eee2de767)
+![1_Salary_Dashboard_Final_Dashboard (1)](https://github.com/user-attachments/assets/52e132b8-c229-4530-ad4f-9637b0190890)
 
 
 Introduction
@@ -26,22 +26,14 @@ The dataset used for this project contains real-world data science job informati
 Dashboard Build
 📉 Charts
 📊 Data Science Job Salaries - Bar Chart
-![image](https://github.com/user-attachments/assets/178315a2-b979-4eae-9e72-393a9778cb16)
-
-
-
-
-
+![1_Salary_Dashboard_Chart1](https://github.com/user-attachments/assets/a93febee-e09d-4ddc-837a-db088a8a68c2)
 
 🛠️ Excel Features: Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 🎨 Design Choice: Horizontal bar chart for visual comparison of median salaries.
 📉 Data Organization: Sorted job titles by descending salary for improved readability.
 💡 Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 🗺️ Country Median Salaries - Map Chart
-![image](https://github.com/user-attachments/assets/2f00f2b8-3303-4567-a1f2-3367bffc09a1)
-
-
-
+![1_Salary_Dashboard_Country_Map](https://github.com/user-attachments/assets/6ff002d7-a057-4381-b386-eaef0394a82c)
 
 
 🛠️ Excel Features: Utilized Excel's map chart feature to plot median salaries globally.
@@ -66,15 +58,12 @@ IF(
 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified.
 🍽️ Background Table
 
-![image](https://github.com/user-attachments/assets/0082c3e5-cf9b-426e-8eaa-51b1329cd6c6)
 
-
+![1_Salary_Dashboard_Screenshot1](https://github.com/user-attachments/assets/6d4e1e32-8e1e-49a1-95b8-ec3e69e9669c)
 
 📉 Dashboard Implementation
 
-
-
-![image](https://github.com/user-attachments/assets/a1eeb553-e94a-480e-a295-c2b57d3a2168)
+![1_Salary_Dashboard_Job_Title](https://github.com/user-attachments/assets/c3df8fb4-90ab-4d6c-b6bf-16d507a0f5cc)
 
 ⏰ Count of Job Schedule Type
 =FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))
@@ -82,15 +71,11 @@ IF(
 🔢 Formula Purpose: This formula populates the table below, which gives us a list of unique job schedule types.
 🍽️ Background Table
 
-
-
-![image](https://github.com/user-attachments/assets/8c2ebf38-98ce-460f-9c13-66a3ce5fa8bb)
+![1_Salary_Dashboard_Screenshot2](https://github.com/user-attachments/assets/83352428-9dea-4523-994e-08d98b362453)
 
 📉 Dashboard Implementation:
 
-
-
-![image](https://github.com/user-attachments/assets/bab10fbe-4716-4032-9a3d-a16af2def42b)
+![1_Salary_Dashboard_Type](https://github.com/user-attachments/assets/888125bd-fde8-4121-a87f-8fd4a6328b83)
 
 ❎ Data Validation
 🔍 Filtered List
@@ -98,9 +83,7 @@ IF(
 🎯 User input is restricted to predefined, validated schedule types
 🚫 Incorrect or inconsistent entries are prevented
 👥 Overall usability of the dashboard is enhanced
-
-
-![image](https://github.com/user-attachments/assets/042dce5b-b381-4dbc-9623-e34adcc8621e)
+![1_Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/8c00c6f5-425e-45a6-bdeb-61b114897694)
 
 
 Conclusion
