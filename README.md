@@ -29,6 +29,9 @@ The following Excel skills were utilized for analysis:
 Dashboard Build
  Charts
  Data Science Job Salaries - Bar Chart
+
+
+
 ![1_Salary_Dashboard_Chart1](https://github.com/user-attachments/assets/a93febee-e09d-4ddc-837a-db088a8a68c2)
 
  Excel Features: Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
@@ -36,6 +39,9 @@ Dashboard Build
  Data Organization: Sorted job titles by descending salary for improved readability.
  Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
  Country Median Salaries - Map Chart
+
+
+
 ![1_Salary_Dashboard_Country_Map](https://github.com/user-attachments/assets/6ff002d7-a057-4381-b386-eaef0394a82c)
 
 
@@ -62,9 +68,15 @@ IF(
  Background Table
 
 
+
+
+
 ![1_Salary_Dashboard_Screenshot1](https://github.com/user-attachments/assets/6d4e1e32-8e1e-49a1-95b8-ec3e69e9669c)
 
  Dashboard Implementation
+
+
+
 
 ![1_Salary_Dashboard_Job_Title](https://github.com/user-attachments/assets/c3df8fb4-90ab-4d6c-b6bf-16d507a0f5cc)
 
@@ -74,9 +86,15 @@ IF(
  Formula Purpose: This formula populates the table below, which gives us a list of unique job schedule types.
  Background Table
 
+
+
+
 ![1_Salary_Dashboard_Screenshot2](https://github.com/user-attachments/assets/83352428-9dea-4523-994e-08d98b362453)
 
  Dashboard Implementation:
+
+
+
 
 ![1_Salary_Dashboard_Type](https://github.com/user-attachments/assets/888125bd-fde8-4121-a87f-8fd4a6328b83)
 
