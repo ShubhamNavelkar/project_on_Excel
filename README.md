@@ -1,4 +1,7 @@
 Excel Salary Dashboard
+
+
+
 ![1_Salary_Dashboard_Final_Dashboard (1)](https://github.com/user-attachments/assets/52e132b8-c229-4530-ad4f-9637b0190890)
 
 
